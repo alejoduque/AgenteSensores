@@ -4,3 +4,5 @@ En la definicion del Stack o Pila o Framework en Plataforma \(en Plataforma\) y 
 
 
 
+http://aqa.daquina.io:8888/sources/1/dashboards/2
+
