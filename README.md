@@ -1,3 +1,6 @@
-# My Awesome Book
+# Agentes Sensores \(version: Del Aire\)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+En la definicion del Stack o Pila o Framework en Plataforma \(en Plataforma\) y usando Platformio :S
+
+
+
