@@ -1,8 +1,7 @@
 # Agentes Sensores \(version: Del Aire\)
 
-En la definicion del Stack o Pila o Framework en Plataforma \(en Plataforma\) y usando Platformio :S
+En un modelo informado por múltiples capas estructuradas a través de protocolos encontramos la definición del Stack o Pila, Benjamin Bratton nos ayuda a definir cómo las tecnologías de red operan de manera modular. Es asi como nos disponemos a ser agentes que miden la calidad del aire que respiramos.  
+![](/assets/sensor_data.png)[http://aqa.daquina.io:8888/sources/1/dashboards/2](https://www.gitbook.com/book/alejoduque/agentesensores/edit#)
 
-
-
-http://aqa.daquina.io:8888/sources/1/dashboards/2
+This model, informed by the logic of the multilayered structure of protocol “stacks,” in which network technologies operate within a modular and vertical order
 
