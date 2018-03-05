@@ -16,7 +16,7 @@
 
 #### Todos los resultados, al igual que el proceso del taller, quedaran documentados de manera libre y abierta. Permitiendo e impulsando la construcción y apropiación libre que nos ayude a desplegar mas Agentes Sensores. Compartiremos con las personas participantes cada detalle respecto a los componentes requeridos, utilizando la plataforma github al igual que un manual de uso escrito al estilo de una historieta. 
 
-#### ----
+#### 
 
 #### En un modelo informado por múltiples capas estructuradas a través de protocolos encontramos la definición del Stack o Pila, Benjamin Bratton nos ayuda a definir cómo las tecnologías de red operan de manera modular. Es asi como nos disponemos a ser agentes que miden la calidad del aire que respiramos.
 
