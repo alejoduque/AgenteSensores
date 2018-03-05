@@ -12,5 +12,13 @@
 
 Cada unidad tiene un precio  final de ?
 
-Hemos considerado usar la versión anterior junto con la actual y de esta manera poder tener a disposición un mayor numero de dispositivos. De paso lograr un
+#### 300.000$ por unidad
+
+#### 3'000.000 por 10 unidades
+
+Hemos considerado usar la versión anterior junto con la actual y de esta manera poder tener a disposición un mayor numero de dispositivos. 
+
+
+
+
 
