@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduccion](README.md)
-* [Borrador 1](chapter1.md)
+* [Todojunto/Borrador](chapter1.md)
 * [Presupuesto](presupuesto.md)
 * [Bibliografía](bibliografia.md)
 * [Requerimentos](requerimentos.md)
