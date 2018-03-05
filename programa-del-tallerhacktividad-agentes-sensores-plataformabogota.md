@@ -14,7 +14,7 @@ Presentación de las visualizaciones en proyección sobre un mapa y las cuestion
 
 #### Almuerzo
 
-### 1:30pm-3pm
+### 1:30pm a 3pm
 
 El hardware y como utilizarlo.
 
