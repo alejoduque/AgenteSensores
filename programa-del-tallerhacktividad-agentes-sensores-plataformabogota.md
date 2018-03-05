@@ -28,5 +28,5 @@ Visualización de datos
 
 5pm  a 6pm
 
-
+Resolver problemas y afinar sistemas para asegurar la optima utilización de los dispositivos.
 
