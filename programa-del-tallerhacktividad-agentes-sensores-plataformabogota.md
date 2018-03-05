@@ -1,8 +1,6 @@
 # Día 1 \(Sábado\):
 
-
-
-9a.m a 10am 
+9a.m a 10am
 
 Inicio y presentación de los participantes y del proyecto. Que es la Ciencia de Barrio. Lo que aprendimos despues de Fukushima
 
@@ -20,9 +18,15 @@ Almuerzo
 
 El hardware y como utilizarlo.
 
-3pm a 5pm
+3pm a 4pm
 
+Salida a realizar la primera captura de datos.
 
+4pm a 5pm
+
+Visualización de datos
+
+5pm  a 6pm
 
 
 
