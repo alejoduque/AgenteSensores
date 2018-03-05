@@ -10,7 +10,7 @@
 
 # Todos los resultados, al igual que el proceso del taller, quedaran documentados de manera libre y abierta. Permitiendo e impulsando la construcción y apropiación libre que nos ayude a desplegar mas Agentes Sensores. Compartiremos con comunidad las personas participantes cada detalle respecto a los componentes requeridos utilizando la plataforma github al igual que un manual de uso escrito al estilo de una historieta.
 
-# En tiempo real el sistema nos deja saber a través de una código de color emitido por un sistema de LED's el estado de las mediciones que realiza el sensor. Si estamos en un espacio abierto o cerrado siempre podremos ver si las partículas pm2.5 que entran en el están mas arriba de los limites que podemos respirar.
+# En tiempo real el sistema nos deja saber a través de un código de color emitido por un sistema de LED's el estado de las mediciones que realiza el sensor. Si estamos en un espacio abierto o cerrado siempre podremos ver si las partículas pm2.5 que entran en el están mas arriba de los limites que podemos respirar.
 
 
 
