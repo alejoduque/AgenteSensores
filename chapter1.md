@@ -1,7 +1,5 @@
 # Con el desarrollo de una Hacktividad en Plataforma Bogota pretendemos dar inicio a la implemetacion y construcción colectiva de una red de sensores que miden la calidad del aire que respiramos, un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\).
 
-# protocolos que ayuden a determinar en una primera etapa y
-
 # Este proyecto se da dentro practicas definidas como "Ciencia de Garaje" \(o mejor, de barrio\) y que consideramos mas fuerte que la tan impulsada "Ciencia Ciudadana" que obedece a verticalidades tipo "Top-Down", inmersas en el discurso de la innovación; esas que dejan de lado la importancia del desarrollo local capaz de autogestionar, autoregular y replicar proyectos.
 
 # Es asi como un/loquer ha logrado existir durante mas de una decada, investigando en diferentes ambitos, desde el trabajo con redes e infraestructuras libres y sistemas de riego a talleres a comunidades conformadas por
