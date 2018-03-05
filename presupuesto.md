@@ -6,7 +6,9 @@
 
 ### Un \(1\) día de taller: 450.000
 
-Preparacion de los sensores y la visualizacion.
+1.500.000 e incluye dejar 2 unidades. 
+
+Preparacion de los sensores y la visualizacion y taller de un \(1\) dia.
 
 ### Gastos por desplazamiento, hospedaje y alimentación de 3 personas que viajan desde Medellin.
 
