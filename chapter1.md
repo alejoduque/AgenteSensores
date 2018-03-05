@@ -1,8 +1,12 @@
-# Con el desarrollo de una Hactividad en Plataforma Bogota pretendemos dar inicio a la construcción colectiva de protocolos ayuden a determinar, en una primera etapa y a través de sensores que miden la calidad del aire que respiramos. Un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\).
+# Con el desarrollo de una Hacktividad en Plataforma Bogota pretendemos dar inicio a la construcción colectiva de sensores que miden la calidad del aire que respiramos, un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\). 
 
-# Un desarrollo que se da dentro practicas definidas como "Ciencia de Garaje" \(o mejor, de barrio\) y que consideramos mas fuerte que la tan impulsada "Ciencia Ciudadana" que obedece a verticalidades tipo "Top-Down" inmersas en el discurso de la innovación. Esas que dejan de lado la importancia del desarrollo local capaz de autogestionar, autoregular y replicar proyectos. Es así como un/loquer ha logrado existir durante mas de una década.
+# protocolos que ayuden a determinar en una primera etapa y
 
-# Investigando en diferentes, desde el trabajo con redes e infraestructuras libres, sistemas de riego a talleres con todo tipo de comunidades. El presente proyecto AQA \(Agentes de Calidad del Aire\) ha logrado avanzar durante los pasados 2 años  y cuenta hoy con un diseño de hardware "hecho en casa" que soporta e incluye sensores de calidad del aire, sensores de humedad, luces LED's y autonomía eléctrica, ademas incluye un G.P.S que nos permite medir y visualizar en un mapa de la cuidad los datos capturados. Tanto hardware como software son de carácter libre.
+# Este proyecto se da dentro practicas definidas como "Ciencia de Garaje" \(o mejor, de barrio\) y que consideramos mas fuerte que la tan impulsada "Ciencia Ciudadana" que obedece a verticalidades tipo "Top-Down", inmersas en el discurso de la innovación; esas que dejan de lado la importancia del desarrollo local capaz de autogestionar, autoregular y replicar proyectos. 
+
+# Es asi como un/loquer ha logrado existir durante mas de una decada, investigando en diferentes ambitos, desde el trabajo con redes e infraestructuras libres y sistemas de riego a talleres a comunidades conformadas por  
+
+# En cuanto al presente proyecto, denominado AQA \(Agentes de Calidad del Aire\), ha logrado avanzar durante los pasados 2 años  y cuenta hoy con un diseño de hardware "hecho en casa" que soporta e incluye sensores de calidad del aire, sensores de humedad, luces LED's y autonomía eléctrica. Ademas incluye un G.P.S que nos permite medir y visualizar en un mapa de la cuidad los datos capturados. Tanto hardware como software son de carácter libre.
 
 # Planteamos un taller de un dia en el que se implementaran entre 6 a 12 unidades para la medición de la calidad del aire del centro histórico y sus alrededores en Bogota. Todas móviles para de esta manera darnos a la tarea de salir a capturar datos que alimenten en tiempo real un primer mapa del estado de la calidad del aire en los trayectos que habitualmente recorremos en la zona.
 
