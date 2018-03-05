@@ -1,3 +1,7 @@
+# Fechas tentativas:
+
+### 
+
 # Presupuesto
 
 ### Un \(1\) día de taller: 450.000
@@ -9,6 +13,4 @@
 Cada unidad tiene un precio  final de ?
 
 Hemos considerado usar la versión anterior junto con la actual y de esta manera poder tener a disposición un mayor numero de dispositivos. De paso lograr un
-
-
 
