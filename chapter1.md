@@ -1,4 +1,4 @@
-# Con el desarrollo de una Hactividad en Plataforma Bogota pretendemos dar inicio a la construcción colectiva de protocolos ayuden a determinar, en una primera etapa y a través de sensores que miden la calidad del aire que respiramos; algo que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellin\).
+# Con el desarrollo de una Hactividad en Plataforma Bogota pretendemos dar inicio a la construcción colectiva de protocolos ayuden a determinar, en una primera etapa y a través de sensores que miden la calidad del aire que respiramos. Un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellin\).
 
 # Un desarrollo que se da dentro de lo se define como Ciencia de Garaje \(o de Barrio\) y que consideramos es mas fuerte que la Ciencia Ciudadana, esa que obedece a verticalidades Top-Down y se encuentran inmersas en el discurso de la Innovacion pero que dejan de lado lo fundamental. Esa capacidad de autogestionar, autoregular y replicar un proyecto. Es asi como un/loquer no solo ha logrado existir durante mas de una decada.
 
