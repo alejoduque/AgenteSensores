@@ -1,8 +1,10 @@
-Grupo local  que hace mediciones en Bogota?
+## Grupo local  que hace mediciones en Bogotá?
 
-Daniel Bernal
+#### Daniel Bernal \(Mesa de Calidad del Aire de Bogotá\)
 
-Arpunk
+#### Arpunk \(programador reconocido por sus aportes a la comunidad del software libre\)
 
-Como convoca Plataforma
+#### Convocatoria Plataforma
+
+
 
