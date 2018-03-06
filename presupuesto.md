@@ -1,24 +1,22 @@
 # Fechas tentativas:
 
-### 
+### Cualquier fin de semana a partir de la segunda semana de Abril. Pensamos que el dia ideal es el Sábado, pero no estamos seguros ya que depende un poco de como se dan las Hacktividades.
 
-# Presupuesto
+# Presupuesto para un \(1\) día de taller:
 
-### Un \(1\) día de taller: 450.000
+#### $1.500.000
 
-1.500.000 e incluye dejar 2 unidades. 
+#### Este incluye la preparación de las unidades móviles como tambien la visualización de los datos en una plataforma online. Igualmente dejaremos 2 unidades funcionales en Plataforma.
 
-Preparacion de los sensores y la visualizacion y taller de un \(1\) dia.
+### Gastos por desplazamiento, hospedaje y alimentación de 2 personas que viajan desde Medellín por dos noches.
 
-### Gastos por desplazamiento, hospedaje y alimentación de 3 personas que viajan desde Medellin.
+#### $1'000.000
 
-### Materiales para la construcción de 6 a 12 dispositivo "Agentes Sensores" para la medición, mapeo y visualización de la Calidad del Aire.
+### Total: 2'500.000
 
-Cada unidad tiene un precio  final de ?
+### Es opcional considerar el rubro de: Materiales para la construcción de 5 "Agentes Sensores" extra que podrán ser entregados a los participantes que demuestren compromiso y capacidad para continuar con la medición, mapeo y visualización de la Calidad del Aire.
 
 #### 300.000$ por unidad
 
-#### 3'000.000 por 10 unidades
-
-Hemos considerado usar la versión anterior junto con la actual y de esta manera poder tener a disposición un mayor numero de dispositivos.
+![](/assets/import.png)
 
