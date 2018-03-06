@@ -1,4 +1,4 @@
-# Agentes Sensores \(versión: Calidad del Aire\) ![](blob:https://www.gitbook.com/c4af5c1a-d7f0-461b-a687-f6220b177e4a)[http://aqa.daquina.io:8888/sources/1/dashboards/2](https://www.gitbook.com/book/alejoduque/agentesensores/edit#)
+# Agentes Sensores \(versión: Calidad del Aire\)![](/assets/viz.png)[http://daquina.io/ ![](/assets/sensor_data.png)](http://daquina.io/)[http://aqa.daquina.io:8888/sources/1/dashboards/2](https://www.gitbook.com/book/alejoduque/agentesensores/edit#)
 
 #### Con el desarrollo de una Hacktividad en Plataforma Bogota pretendemos dar inicio a la implemetacion y construcción colectiva de una red de sensores que miden la calidad del aire que respiramos. Un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\). \(red ciudadana, no oficial, de manera alternativa\)
 
