@@ -16,6 +16,8 @@
 
 ### Es opcional considerar el rubro de: Materiales para la construcción de 5 "Agentes Sensores" extra que podrán ser entregados a los participantes que demuestren compromiso y capacidad para continuar con la medición, mapeo y visualización de la Calidad del Aire.
 
+http://www.elcolombiano.com/antioquia/sensor-hecho-por-paisas-mide-la-calidad-del-aire-CC8307499
+
 #### 300.000$ por unidad
 
 ![](/assets/import.png)
