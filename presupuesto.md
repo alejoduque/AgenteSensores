@@ -6,7 +6,7 @@
 
 #### $1.500.000
 
-#### Este incluye la preparación unidades móvilessuficientes para cada participante del taller, como tambien la visualización de los datos en una plataforma online. Al finalizar la actividad dejaremos 2 unidades funcionales en Plataforma.
+#### Este incluye la preparación unidades móviles suficientes para cada participante del taller, como tambien la visualización de los datos en una plataforma online. Al finalizar la actividad dejaremos 2 unidades funcionales en Plataforma.
 
 ### Gastos por desplazamiento, hospedaje y alimentación de 2 personas que viajan desde Medellín por dos noches.
 
