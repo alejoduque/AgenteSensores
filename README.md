@@ -14,11 +14,11 @@
 
 #### Conscientes de que seremos cuestionados por la precision de la calibración de los sensores, estamos listos a responder de diferentes maneras para defender la importancia del ejercio de medicion, hecho con nuestros propios recursos -algo tan importante como el aire que respiramos- y así despertar una consciencia que busque de un dialogo que nos ayude a mejorar la situación.
 
-#### Todos los resultados, al igual que el proceso del taller, quedaran documentados de manera libre y abierta. Permitiendo e impulsando la construcción y apropiación libre que nos ayude a desplegar mas Agentes Sensores. Compartiremos con las personas participantes cada detalle respecto a los componentes requeridos, utilizando la plataforma github al igual que un manual de uso escrito al estilo de una historieta. 
+#### Todos los resultados, al igual que el proceso del taller, quedaran documentados de manera libre y abierta. Permitiendo e impulsando la construcción y apropiación libre que nos ayude a desplegar mas Agentes Sensores. Compartiremos con las personas participantes cada detalle respecto a los componentes requeridos, utilizando la plataforma github al igual que un manual de uso escrito al estilo de una historieta.
 
-#### 
+#### ---
 
-#### En un modelo informado por múltiples capas estructuradas a través de protocolos encontramos la definición del Stack o Pila, Benjamin Bratton nos ayuda a definir cómo las tecnologías de red operan de manera modular. Es asi como nos disponemos a ser agentes que miden la calidad del aire que respiramos.
+#### En un modelo informado por múltiples capas estructuradas a través de protocolos encontramos la definición del Stack o Pila de Benjamin Bratton que nos ayuda a definir cómo las tecnologías de red operan de manera modular, son interfaces conectadas por protocolos, una capa sobre otra. Es así como nos disponemos a ser agentes que miden la calidad del aire que respiramos.
 
 
 
