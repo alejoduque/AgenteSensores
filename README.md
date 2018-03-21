@@ -1,6 +1,6 @@
-# Agentes Sensores \(versión: Calidad del Aire\)![](/assets/viz.png)[http://daquina.io/ ![](/assets/sensor_data.png)](http://daquina.io/)[http://aqa.daquina.io:8888/sources/1/dashboards/2](https://www.gitbook.com/book/alejoduque/agentesensores/edit#)
+# Agentes Sensores \(versión: Calidad del Aire\)![](/assets/viz.png) ![](/assets/sensor_data.png)[http://aqa.daquina.io:8888/sources/1/dashboards/2](https://www.gitbook.com/book/alejoduque/agentesensores/edit#)
 
-#### Con el desarrollo de una Hacktividad en Plataforma Bogota pretendemos dar inicio a la implemetacion y construcción colectiva de una red de sensores que miden la calidad del aire que respiramos. Un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\). \(red ciudadana, no oficial, de manera alternativa\)
+#### Con el desarrollo de una Hacktividad en Plataforma Bogotá pretendemos dar inicio a la implementación y construcción colectiva de una red de sensores que miden la calidad del aire que respiramos. Un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\). \(red ciudadana, no oficial, de manera alternativa\)
 
 #### Este proyecto se da dentro practicas definidas como "Ciencia de Garaje" \(o mejor, de barrio\) y que consideramos mas fuerte que la tan impulsada "Ciencia Ciudadana" que obedece a verticalidades tipo "Top-Down", inmersas en el discurso de la innovación; esas que dejan de lado la importancia del desarrollo local capaz de auto-gestionar, autorregular y replicar proyectos.
 
