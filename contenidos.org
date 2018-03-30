@@ -1,0 +1,29 @@
+Encontraremos una forma de estructurar la información para abrazar el problema de la calidad del aire.
+Se presentarán algunos componentes que pueden serivir para construir las funciones, se inicia mencionando algunos tipos o entes involucrados, luego las operaciones que se pueden aplicar entre ellos,  fnalmente algunas estructuras de control. 
+
+* Elementos
+** Tipos
+*** Aire
+*** Viento
+*** Automotores de combustible fósil
+*** Material Particulado http://rama.edomex.gob.mx/caracteristicas
+**** PM2.5 se depositan por difusión
+**** PM10 partículas respirables se depositan por sedimentación
+**** PM1
+*** Animales
+**** Humanos
+** Operaciones
+*** Emisión
+*** Medición
+*** Respiración
+
+** Estructuras de control
+*** Alertas 
+*** Estandares (ICA) http://www.metropol.gov.co/CalidadAire/Paginas/ica.aspx
+*** PIGECA
+*** POECA
+* Funciones
+** Sensor mide el aire
+*** Técnicas de Medición http://rama.edomex.gob.mx/tecnicas_medicion
+
+** visualizar datos
