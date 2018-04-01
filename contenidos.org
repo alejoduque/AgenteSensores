@@ -3,20 +3,29 @@ Se presentarán algunos componentes que pueden serivir para construir las funcio
 
 * Elementos
 ** Tipos
-*** Aire
-*** Viento
+*** Aire 
+    Es afectado por Viento, Calentamiento, Emisión
+    Afecta la Respiración
+    Puede ser Medido
 *** Automotores de combustible fósil
+    Emiten Material Particulado, suben la temperatura
 *** Material Particulado http://rama.edomex.gob.mx/caracteristicas
 **** PM2.5 se depositan por difusión
 **** PM10 partículas respirables se depositan por sedimentación
 **** PM1
 *** Animales
 **** Humanos
+     Generan Emisiones de Material Particulado
+     Generan Calentamiento
+     Son afectados por Material Particulado
+     Pueden Medir 
+     Pueden disminuir o aumentar las emisiones
 ** Operaciones
 *** Emisión
 *** Medición
 *** Respiración
-
+*** Viento
+*** Calentamiento
 ** Estructuras de control
 *** Alertas 
 *** Estandares (ICA) http://www.metropol.gov.co/CalidadAire/Paginas/ica.aspx
@@ -26,4 +35,12 @@ Se presentarán algunos componentes que pueden serivir para construir las funcio
 ** Sensor mide el aire
 *** Técnicas de Medición http://rama.edomex.gob.mx/tecnicas_medicion
 
-** visualizar datos
+** Visualizar datos
+*** Como serie de tiempo:
+**** Linea
+**** Candles
+**** Rastros geolocalizados
+*** Como promedios:
+**** Mapa de Calor
+**** Estala ICA en Mapa
+**** Hexabin
