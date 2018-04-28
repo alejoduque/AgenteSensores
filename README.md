@@ -1,3 +1,5 @@
+![](hacktividad.jpg)
+
 # Agentes Sensores \(versión: Calidad del Aire\)![](/assets/viz.png) ![](/assets/sensor_data.png)[http://aqa.daquina.io:8888/sources/1/dashboards/2](https://www.gitbook.com/book/alejoduque/agentesensores/edit#)
 
 #### Con el desarrollo de una Hacktividad en Plataforma Bogotá pretendemos dar inicio a la implementación y construcción colectiva de una red de sensores que miden la calidad del aire que respiramos. Un proyecto que ha estado en desarrollo desde hace 2 años en el Hackerspace un/loquer \(Medellín\). \(red ciudadana, no oficial, de manera alternativa\)
