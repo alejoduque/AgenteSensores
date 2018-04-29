@@ -42,16 +42,28 @@
 **** No se requiere validación del estado porque no emitimos alertas oficiales, declaramos nuestras propias crisis ambientales no oficiales.
 
 ** 12:30 p.m. a 1:30 p.m. Almuerzo
-
 ** 1:30 p.m a 3:00 p.m. El hardware desarrollado por un/loquer. Cómo utilizarlo.
+*** Modo sin internet v.0.2
+    Se usa el branch versión 2 https://github.com/unloquer/AQA/tree/version2 permite salvar a la memoria flash y no espera conexión a wifi para poder reportar datos a los leds.
+*** Modo con internet v.0.3
+    Se debe conectar a una red wifi
+**** Conexión a wifi
+     Al encender el ESP crea una red llamada ESP<un numero que cambia>, se apunta un navegador a la dirección 192.168.4.1  que resuelve en un mini portal que permite la configuración wifi.
+     Al tener acceso a wifi el dispositivo empieza a emitir dos flashes de los leds con el código de colores ICA.
+     Cuando el dispositivo se localiza (esta listo el GPS) empieza a transmitir a la base de datos y emite flashes más rapidos.
 
 ** 3:00 p.m a 4:00 p.m. Salida a realizar la primera captura de datos.
-
 ** 4:00 p.m a 5 p.m Visualización de datos.
-
+*** Chronograf
+    verificar las mediciones guardadas en la base de datos (influxdb) de los recorridos
+    Crear un dashboard con reporte gráfico de las mediciones
+    Exportar los datos de las mediciones según la consulta de deseada, por ejemplo 1 hora de mediciones (exporta en format .csv)
+    Hacer una petición al API para ser consumida por otras aplicaciones TODO: ¿es chronograf el que crea el API o es influxdb?
+*** Shiny 
+    Crear un mapa y consumir los datos de influxdb para por ejemplo mostrar  los recorridos que se hicieron.
 ** 5:00 p.m a 6:00 p.m. Resolver problemas y afinar sistemas para asegurar la óptima utilización de los dispositivos.
 
-
+   
 
 * ¿Cómo se esta sumando unloquer al problema de la calidad del aire?
 ** ¿Es relevante un dispositivo que le muestre a la *persona* la calidad del aire que respira en *ese  momento*?
