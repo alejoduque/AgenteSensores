@@ -1,8 +1,5 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org75f5c9b">Plan de trabajo y contenidos</a>
+
+<h2>Plan de trabajo y contenidos</h2>
 <ul>
 <li><a href="#org7728eff">9:00 a.m a 10: 00 a m. Inicio y presentación de los participantes y del proyecto. ¿Qué es la Ciencia de Barrio? Lo que aprendimos después de Fukushima.</a>
 <ul>
