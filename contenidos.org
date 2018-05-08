@@ -1,3 +1,100 @@
+#+TITLE:       HACKTIVIDAD-AGENTES SENSORES
+#+AUTHOR:     alejo, brolin, son0p 
+#+EMAIL:      unloquer@gmail.com
+#+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
+#+OPTIONS:    H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
+#+LANGUAGE:   en
+#+PRIORITIES: A C B
+#+CATEGORY:   divulgacion
+
+
+* Plan de trabajo y contenidos
+
+** 9:00 a.m a 10: 00 a m. Inicio y presentación de los participantes y del proyecto. ¿Qué es la Ciencia de Barrio? Lo que aprendimos después de Fukushima.
+
+
+*** No necesita presupuesto
+*** No requiere un aval académico ni estatal
+*** No requiere primaria, ni bachillerato, ni maestría, ni phd
+*** Requiere tiempo
+*** Requiere persistencia
+*** Requiere estudio
+
+** 10:00 am a 11:00 am. La partícula pm 2.5 ¿Qué es? ¿De dónde viene? ¿Cómo nos afecta?
+
+*** Mucho mas pequeña que uno de los pelos que sirve de filtro en la nariz, relación 70 a 2.5, como la relación entre una persona (1.80mts) y un edificio de 50 metros.
+*** Puede viajar en el torrente sanguineo e incrustarse en cualquier parte.
+
+** 11:15 am a 12:30m. Presentación de las visualizaciones en proyección sobre un mapa y las cuestiones concernientes al tema de la calibración de los sensores.
+
+*** Graficar valores sobre una línead de tiempo (chronograf)
+
+*** Graficar valores sobre un mapa
+**** Recorridos http://daquina.io/aqaviz/
+**** Estaciones http://daquina.io/aqaVizEstaciones/
+*** Es posible calibrar el sensor .. pero:
+**** No requiere ser calibrado para divertise.
+**** No se requiere un formula uno para ir de paseo.
+**** No se requiere validación académica
+**** No se requiere validación del estado porque no emitimos alertas oficiales, declaramos nuestras propias crisis ambientales no oficiales.
+
+** 12:30 p.m. a 1:30 p.m. Almuerzo
+** 1:30 p.m a 3:00 p.m. El hardware desarrollado por un/loquer. Cómo utilizarlo.
+*** Modo sin internet v.0.2
+    Se usa el branch versión 2 https://github.com/unloquer/AQA/tree/version2 permite salvar a la memoria flash y no espera conexión a wifi para poder reportar datos a los leds.
+*** Modo con internet v.0.3
+    Se debe conectar a una red wifi
+**** Conexión a wifi
+     Al encender el ESP crea una red llamada ESP<un numero que cambia>, se apunta un navegador a la dirección 192.168.4.1  que resuelve en un mini portal que permite la configuración wifi.
+     Al tener acceso a wifi el dispositivo empieza a emitir dos flashes de los leds con el código de colores ICA.
+     Cuando el dispositivo se localiza (esta listo el GPS) empieza a transmitir a la base de datos y emite flashes más rapidos.
+
+** 3:00 p.m a 4:00 p.m. Salida a realizar la primera captura de datos.
+** 4:00 p.m a 5 p.m Visualización de datos.
+*** Chronograf
+    verificar las mediciones guardadas en la base de datos (influxdb) de los recorridos
+    Crear un dashboard con reporte gráfico de las mediciones
+    Exportar los datos de las mediciones según la consulta de deseada, por ejemplo 1 hora de mediciones (exporta en format .csv)
+    Hacer una petición al API para ser consumida por otras aplicaciones TODO: ¿es chronograf el que crea el API o es influxdb?
+*** Shiny 
+    Crear un mapa y consumir los datos de influxdb para por ejemplo mostrar  los recorridos que se hicieron.
+** 5:00 p.m a 6:00 p.m. Resolver problemas y afinar sistemas para asegurar la óptima utilización de los dispositivos.
+
+   
+
+* ¿Cómo se esta sumando unloquer al problema de la calidad del aire?
+** ¿Es relevante un dispositivo que le muestre a la *persona* la calidad del aire que respira en *ese  momento*?
+** ¿De que sirve compartir esas mediciones a una red ciudadana?
+*** ¿Los datos históricos me permiten enterarme de los momentos (meses, dias, horas) en que mejora la calidad del aire?
+** ¿Qué poder tengo sobre mi aire?
+*** ¿Las personas que estan tomando desiciones para cambiar esa situación estan muy lejos?
+*** ¿A qué velocidad podemos esperar los cambios?
+*** ¿Sirve la metáfora de la reja ? 
+    Una persona habita con una ventana en un primer piso que da a la calle, a varios vecinos les han roto la ventana para robarles frutas y otras pertenencias, el gobierno dice que tiene pactos y programas para disminuír la delincuencia en la ciudad gradualmente hasta lograr índices parecidos a alguna ciudad tranquila de un país desarrollado, la persona no sabe si esperar a que el gobierno mejore la inseguridad o poner una reja en su ventana.
+*** ¿La máscara sírve?                                                   
+**** ¿Las partículas pm25 son mas pequeñas que un pelo de la nariz? 25 a 70 :log:
+*** ¿Puedo saber dónde esta mejor el aire?
+
+** ¿Puedo usar el pretexto del problema de la calidad del aire en medellín para aprender de  matemáticas?
+*** ¿De Antropología?
+**** ¿Es un problema nuevo en la ciudad? ¿no?  http://www.universocentro.com/NUMERO86/Humossetenteros.aspx
+*** ¿De Programación?
+*** ¿De Biología? 
+**** El Guáimaro, Sogamoso https://actualidad.rt.com/actualidad/266121-arbol-magico-colombia-titan-polucion
+** ¿Cómo me sumo?
+*** ¿Puedo donar un sensor a un hospital infantil?
+*** ¿Puedo resolver alguno de los problemas de programación?  https://github.com/unloquer/AQA/issues
+*** ¿Puedo medir la calidad del aire en una fábrica cerca a mi casa?
+*** ¿Puedo ayudar a saber si los foggers sirven para disminuir el material particulado?
+*** ¿Puedo conversar sobre el tema en un foro? https://comunidad.unloquer.org/
+* ------
+
+
+
+
 Encontraremos una forma de estructurar la información para abrazar el problema de la calidad del aire.
 Se presentarán algunos componentes que pueden serivir para construir las funciones, se inicia mencionando algunos tipos o entes involucrados, luego las operaciones que se pueden aplicar entre ellos,  fnalmente algunas estructuras de control. 
 
