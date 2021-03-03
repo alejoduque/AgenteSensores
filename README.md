@@ -25,6 +25,9 @@
 #### En un modelo informado por múltiples capas estructuradas a través de protocolos encontramos la definición del Stack o Pila de Benjamin Bratton que nos ayuda a definir cómo las tecnologías de red operan de manera modular, son interfaces conectadas por protocolos, una capa sobre otra. Es así como nos disponemos a ser agentes que miden la calidad del aire que respiramos.
 
 #### enlaces
+
 [red sesnores AQA]( http://aqa.unloquer.org:8888/sources/1/dashboards/7 )
+
 [mapa](http://daquina.io/aqaviz/)
+
 [wiki](http://wiki.unloquer.org/personas/brolin/proyectos/agentes_calidad_aire)
